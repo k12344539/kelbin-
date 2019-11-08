@@ -1,0 +1,8 @@
+ * ... convertirlo automáticamente a HTML
+  * Markdown se convierte en una presentación del lado del cliente, en el navegador. Esto es diferente
+   herramientas existentes como [Hovercraft] (https://github.com/regebro/hovercraft) y 
+   [ markdown-impress ] (http://binbinliao.com/markdown-impress/) donde genera un nuevo
+   markdown-impresionar donde genera un nuevo
+   archivo html en la línea de comando.
+* [Una presentación de Markdown más avanzada está aquí.] (../ markdown /)
+    </ div >
